@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Sudhir!
+# Hi there, I'm Sudhir!
 
 <!--<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://your-image-url-for-dark-mode.png">
@@ -10,18 +10,18 @@ I'm a results-oriented **Senior Information Security Engineer** with approximate
 
 ---
 
-### 🛡️ What I Do:
+###  What I Do:
 
-*   🚀 Enhance security posture for large-scale corporate and client network infrastructures (experienced with 5000+ devices).
-*   ⚙️ Develop, implement, and manage security standards, configurations, and policies for network devices (Firewalls, Switches, Routers, NIPS).
-*   🔒 Manage security compliance frameworks like **ISO 27001** and **PCI DSS**, including audits and process improvements.
-*   🤖 Automate security tasks and compliance checks, achieving significant efficiency gains (e.g., **reduced manual configuration effort by 40%**).
-*   ☁️ Perform security assessments and manage configurations for both **On-Premise** and **Cloud environments (AWS, GCP, Azure)**.
-*   🔍 Conduct vulnerability assessments, manage remediation plans, and respond to security incidents.
+*    Enhance security posture for large-scale corporate and client network infrastructures (experienced with 5000+ devices).
+*    Develop, implement, and manage security standards, configurations, and policies for network devices (Firewalls, Switches, Routers, NIPS).
+*    Manage security compliance frameworks like **ISO 27001** and **PCI DSS**, including audits and process improvements.
+*    Automate security tasks and compliance checks, achieving significant efficiency gains (e.g., **reduced manual configuration effort by 40%**).
+*    Perform security assessments and manage configurations for both **On-Premise** and **Cloud environments (AWS, GCP, Azure)**.
+*    Conduct vulnerability assessments, manage remediation plans, and respond to security incidents.
 
 ---
 
-### 💻 Technical Skills & Tools:
+###  Technical Skills & Tools:
 
 *   **Core Areas:** Network Security, Compliance Management, Vulnerability Assessment & Management, Security Automation, Cloud Security Architecture, Configuration Security Management.
 *   **Security Tools:** `Skybox Security Suite`, `AlgoSec`, `Qualys`, `CyberArk`, `Cortex XSIAM`, `FTK Imager`, `Wireshark`, `Burp Suite`.
@@ -32,14 +32,14 @@ I'm a results-oriented **Senior Information Security Engineer** with approximate
 
 ---
 
-### ✨ Key Highlights:
+###  Key Highlights:
 
 *   Ranked **1st in CTF** organized at the organizational level.
 *   Co-authored publication: **Drug Safety Report Generator** on IJEEE.
 
 ---
 
-### 🔗 Connect with Me:
+###  Connect with Me:
 
 *   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dsudhir/) <!-- Replace with your actual LinkedIn profile URL -->
 *   [📄 View My Resume](https://sudhir45.github.io/)
