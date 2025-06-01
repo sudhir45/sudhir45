@@ -6,16 +6,16 @@
   <!-- Optional: Add a cool banner image here if you have one -->
   <!-- <img align="right" width="400" src="path/to/your/banner.gif_or_png" /> --></picture>
 
-I'm a results-oriented **Senior Information Security Engineer** with approximately 3 years of experience passionate about securing enterprise systems, automating security processes, and enhancing overall security posture. I thrive in challenging environments where I can leverage my expertise to protect complex infrastructures and applications.
+I'm a results-oriented **Security Engineer** with approximately 3 years of experience passionate about securing enterprise systems, automating security processes, and enhancing overall security posture. I thrive in challenging environments where I can leverage my expertise to protect complex infrastructures and applications.
 
 ---
 
 ###  What I Do:
 
-*    Enhance security posture for large-scale corporate and client network infrastructures (experienced with 5000+ devices).
-*    Develop, implement, and manage security standards, configurations, and policies for network devices (Firewalls, Switches, Routers, NIPS).
+*    Enhance security posture for large-scale corporate and client network infrastructures.
+*    Develop, implement, and manage security standards, configurations, and policies for network devices.
 *    Manage security compliance frameworks like **ISO 27001** and **PCI DSS**, including audits and process improvements.
-*    Automate security tasks and compliance checks, achieving significant efficiency gains (e.g., **reduced manual configuration effort by 40%**).
+*    Automate security tasks and compliance checks, achieving significant efficiency gains.
 *    Perform security assessments and manage configurations for both **On-Premise** and **Cloud environments (AWS, GCP, Azure)**.
 *    Conduct vulnerability assessments, manage remediation plans, and respond to security incidents.
 
@@ -26,16 +26,9 @@ I'm a results-oriented **Senior Information Security Engineer** with approximate
 *   **Core Areas:** Network Security, Compliance Management, Vulnerability Assessment & Management, Security Automation, Cloud Security Architecture, Configuration Security Management.
 *   **Security Tools:** `Skybox Security Suite`, `AlgoSec`, `Qualys`, `CyberArk`, `Cortex XSIAM`, `FTK Imager`, `Wireshark`, `Burp Suite`.
 *   **Frameworks/Platforms:** `Archer`, `ServiceNow`.
-*   **Networking:** `Cisco (ASA, IOS, FTDs, Switches)`, `Palo Alto Firewalls`, `Checkpoint (On-Prem/Cloud)`, `Mellanox`, `Cumulus`, `NIPS`, `SD-WAN concepts`.
+*   **Networking:** `Cisco (ASA, IOS, FTDs, Switches)`, `Palo Alto Firewalls`, `Checkpoint (On-Prem/Cloud)`, `Mellanox`, `Cumulus`, `NIPS`, `SD-WAN`.
 *   **Languages/Scripting:** `Python`, `Bash Scripting`.
 *   **Operating Systems:** `Linux`, `Windows`.
-
----
-
-###  Key Highlights:
-
-*   Ranked **1st in CTF** organized at the organizational level.
-*   Co-authored publication: **Drug Safety Report Generator** on IJEEE.
 
 ---
 
