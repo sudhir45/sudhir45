@@ -6,7 +6,7 @@
   <!-- Optional: Add a cool banner image here if you have one -->
   <!-- <img align="right" width="400" src="path/to/your/banner.gif_or_png" /> --></picture>
 
-I'm a results-oriented **Security Engineer** with approximately 3 years of experience passionate about securing enterprise systems, automating security processes, and enhancing overall security posture. I thrive in challenging environments where I can leverage my expertise to protect complex infrastructures and applications.
+I'm a **Security Engineer** with approximately 3 years of experience passionate about securing enterprise systems, automating security processes, and enhancing overall security posture. I thrive in challenging environments where I can leverage my expertise to protect complex infrastructures and applications.
 
 ---
 
@@ -27,15 +27,13 @@ I'm a results-oriented **Security Engineer** with approximately 3 years of exper
 *   **Security Tools:** `Skybox Security Suite`, `AlgoSec`, `Qualys`, `CyberArk`, `Cortex XSIAM`, `FTK Imager`, `Wireshark`, `Burp Suite`.
 *   **Frameworks/Platforms:** `Archer`, `ServiceNow`.
 *   **Networking:** `Cisco (ASA, IOS, FTDs, Switches)`, `Palo Alto Firewalls`, `Checkpoint (On-Prem/Cloud)`, `Mellanox`, `Cumulus`, `NIPS`, `SD-WAN`.
-*   **Languages/Scripting:** `Python`, `Bash Scripting`.
-*   **Operating Systems:** `Linux`, `Windows`.
 
 ---
 
 ###  Connect with Me:
 
 *   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dsudhir/) <!-- Replace with your actual LinkedIn profile URL -->
-*   [📄 View My Resume](https://sudhir45.github.io/Resume_Web/)
+<!--*   [📄 View My Resume](https://sudhir45.github.io/Resume_Web/) -->
 
 ---
 
