@@ -6,27 +6,13 @@
   <!-- Optional: Add a cool banner image here if you have one -->
   <!-- <img align="right" width="400" src="path/to/your/banner.gif_or_png" /> --></picture>
 
-I'm a **Security Engineer** with approximately 3 years of experience passionate about securing enterprise systems, automating security processes, and enhancing overall security posture. I thrive in challenging environments where I can leverage my expertise to protect complex infrastructures and applications.
+My name is Sudhir Dubey, a Security Engineer making sure the Organization is secure doesn't catch fire.
 
----
+I currently oversee the security posture of over thousands of network devices, navigating the complex intersection of strict compliance standards and vulnerability assessment. My background is a mix of offensive and defensive security.
 
-###  What I Do:
+I started my career analyzing digital forensics for the Gurugram Police, and now I police network traffic for enterprise giants.
 
-*    Enhance security posture for large-scale corporate and client network infrastructures.
-*    Develop, implement, and manage security standards, configurations, and policies for network devices.
-*    Manage security compliance frameworks like **ISO 27001** and **PCI DSS**, including audits and process improvements.
-*    Automate security tasks and compliance checks, achieving significant efficiency gains.
-*    Perform security assessments and manage configurations for both **On-Premise** and **Cloud environments (AWS, GCP, Azure)**.
-*    Conduct vulnerability assessments, manage remediation plans, and respond to security incidents.
-
----
-
-###  Technical Skills & Tools:
-
-*   **Core Areas:** Network Security, Compliance Management, Vulnerability Assessment & Management, Security Automation, Cloud Security Architecture, Configuration Security Management.
-*   **Security Tools:** `Skybox Security Suite`, `AlgoSec`, `Qualys`, `CyberArk`, `Cortex XSIAM`, `FTK Imager`, `Wireshark`, `Burp Suite`.
-*   **Frameworks/Platforms:** `Archer`, `ServiceNow`.
-*   **Networking:** `Cisco (ASA, IOS, FTDs, Switches)`, `Palo Alto Firewalls`, `Checkpoint (On-Prem/Cloud)`, `Mellanox`, `Cumulus`, `NIPS`, `SD-WAN`.
+I believe the best security is efficient security. I'm an automation enthusiast (because manual entry is the enemy) and a repeated CTF winner who knows exactly how to break into a network - which is precisely why I'm so good at keeping everyone else out.
 
 ---
 
