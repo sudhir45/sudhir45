@@ -12,7 +12,7 @@ I currently oversee the security posture of over thousands of network devices, n
 
 I started my career analyzing digital forensics for the Gurugram Police, and now I police network traffic for enterprise giants.
 
-I believe the best security is efficient security. I'm an automation enthusiast (because manual entry is the enemy) and a repeated CTF winner who knows exactly how to break into a network - which is precisely why I'm so good at keeping everyone else out.
+I believe the best security is efficient security, I'm an automation enthusiast (because manual entry is the enemy) and a repeated CTF winner who knows exactly how to break into a network - which is precisely why I'm so good at keeping everyone else out.
 
 ---
 
