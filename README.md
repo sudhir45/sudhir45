@@ -21,6 +21,7 @@ I believe the best security is efficient security, I'm an automation enthusiast 
 *   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dsudhir/) <!-- Replace with your actual LinkedIn profile URL -->
 <!--*   [📄 View My Resume](https://sudhir45.github.io/Resume_Web/) -->
 
+![](https://komarev.com/ghpvc/?username=sudhir45)
 ---
 
 <!--<picture>
