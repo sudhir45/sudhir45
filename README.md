@@ -6,7 +6,7 @@
   <!-- Optional: Add a cool banner image here if you have one -->
   <!-- <img align="right" width="400" src="path/to/your/banner.gif_or_png" /> --></picture>
 
-My name is Sudhir Dubey, a Security Engineer making sure the Organization is secure doesn't catch fire.
+A Security Engineer making sure the Organization is secure doesn't catch fire.
 
 I currently oversee the security posture of over thousands of network devices, navigating the complex intersection of strict compliance standards and vulnerability assessment. My background is a mix of offensive and defensive security.
 
