@@ -1,18 +1,3 @@
-# Hi there, I'm Sudhir!
-
-<!--<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://your-image-url-for-dark-mode.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://your-image-url-for-light-mode.png">
-  <!-- Optional: Add a cool banner image here if you have one -->
-  <!-- <img align="right" width="400" src="path/to/your/banner.gif_or_png" /> --></picture>
-
-A Cyber Security Guy
----
-
-###  Connect with Me:
-
-*   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dsudhir/) <!-- Replace with your actual LinkedIn profile URL -->
-<!--*   [📄 View My Resume](https://sudhir45.github.io/Resume_Web/) -->
 
 ![](https://komarev.com/ghpvc/?username=sudhir45&label=&color=brightgreen&style=flat-square)
 ---
